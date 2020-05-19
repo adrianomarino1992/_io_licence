@@ -10,4 +10,4 @@ git push -u origin master
 
 echo PRONTO ============================== 
 
-pause
+exit

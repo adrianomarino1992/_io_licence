@@ -10,4 +10,5 @@ git commit -m "updade"
 
 echo PRONTO ==============================  
 
-pause
+exit
+

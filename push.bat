@@ -6,8 +6,7 @@ title ENVIANDO ATUALIZACOES
 
 echo AGUARDE ATE O TERMINO DO PROCESSO...
 
-git add . 
-git commit -m "updade"
+git push -u origin master 
 
 echo PRONTO ! 
 

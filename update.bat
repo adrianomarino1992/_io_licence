@@ -2,8 +2,7 @@
 
 color 02
 
-title ENVIANDO ATUALIZACOES ==============
-
+title ENVIANDO ATUALIZACOES
 echo AGUARDE ATE O TERMINO DO PROCESSO...
 
 git add . 
